@@ -1,0 +1,14 @@
+start 2026-10-24 00:02:48 CST
+slug pet-grooming-vax
+name 宠物美容寄养疫苗提醒
+kw expand attempt 1 2026-10-24 00:02:48 CST
+kw expand done 2026-10-24 00:12:59 CST
+serp start 2026-10-24 00:12:59 CST
+serp done ec=0 2026-10-24 01:11:19 CST
+serp skip already present 2026-10-24 01:11:19 CST
+report start recover 2026-10-24 01:12:49 CST
+
+report verified through 2026-10-24 01:24:46 CST
+report review elapsed 11分57秒
+batch elapsed 1小时21分58秒
+score 64/100
